@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="initializing repo&#10; imported the neccesary libraries&#10; read data file">
+    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10; age distrubutions of patients">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
     </list>
@@ -53,6 +53,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initializing repo&#10; imported the neccesary libraries&#10; read data file" />
-    <option name="LAST_COMMIT_MESSAGE" value="initializing repo&#10; imported the neccesary libraries&#10; read data file" />
+    <MESSAGE value="plottings&#10; age distrubutions of patients" />
+    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10; age distrubutions of patients" />
   </component>
 </project>

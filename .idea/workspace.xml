@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10; age distrubutions of patients">
+    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10; resting bp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
     </list>
@@ -23,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2f9DuNvjP07NJouiCU9DyZj4n78" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,7 +39,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Abdurrahman/DataspellProjects/Heart_Disease_Prediction/output_rbps.png"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -50,10 +51,22 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initializing repo&#10; imported the neccesary libraries&#10; read data file" />
     <MESSAGE value="plottings&#10; age distrubutions of patients" />
-    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10; age distrubutions of patients" />
+    <MESSAGE value="plottings&#10; resting bp" />
+    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10; resting bp" />
   </component>
 </project>

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10;depression induced by exercise">
-      <change afterPath="$PROJECT_DIR$/output_age.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_rbps.png" afterDir="false" />
+    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10;output images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +40,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Abdurrahman/DataspellProjects/Heart_Disease_Prediction/output_rbps.png"
+    "last_opened_file_path": "C:/Users/Abdurrahman/DataspellProjects/Heart_Disease_Prediction/images/eda_output"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Abdurrahman\DataspellProjects\Heart_Disease_Prediction\images\eda_output" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,6 +74,8 @@
     <MESSAGE value="plottings&#10; resting bp" />
     <MESSAGE value="plottings&#10;numerical features are visualized using hist and density plot" />
     <MESSAGE value="plottings&#10;depression induced by exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10;depression induced by exercise" />
+    <MESSAGE value="plottings&#10;folder reaarangement" />
+    <MESSAGE value="plottings&#10;output images" />
+    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10;output images" />
   </component>
 </project>

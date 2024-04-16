@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10; resting bp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10;depression induced by exercise">
+      <change afterPath="$PROJECT_DIR$/output_age.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output_rbps.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +68,8 @@
     <MESSAGE value="initializing repo&#10; imported the neccesary libraries&#10; read data file" />
     <MESSAGE value="plottings&#10; age distrubutions of patients" />
     <MESSAGE value="plottings&#10; resting bp" />
-    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10; resting bp" />
+    <MESSAGE value="plottings&#10;numerical features are visualized using hist and density plot" />
+    <MESSAGE value="plottings&#10;depression induced by exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10;depression induced by exercise" />
   </component>
 </project>

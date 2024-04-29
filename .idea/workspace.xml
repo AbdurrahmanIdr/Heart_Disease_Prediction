@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10;categorical features update">
+    <list default="true" id="b70955ad-b26f-4c2c-b1be-66dece04555d" name="Changes" comment="plottings&#10;update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eda.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/eda.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +40,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Abdurrahman/DataspellProjects/Heart_Disease_Prediction/images/eda_output/output_cholestral.png"
+    "last_opened_file_path": "C:/Users/Abdurrahman/DataspellProjects/Heart_Disease_Prediction/images/eda_output",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,6 +80,7 @@
     <MESSAGE value="plottings&#10;interpreting plots" />
     <MESSAGE value="plottings&#10;interpreting plots2" />
     <MESSAGE value="plottings&#10;categorical features update" />
-    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10;categorical features update" />
+    <MESSAGE value="plottings&#10;update" />
+    <option name="LAST_COMMIT_MESSAGE" value="plottings&#10;update" />
   </component>
 </project>
